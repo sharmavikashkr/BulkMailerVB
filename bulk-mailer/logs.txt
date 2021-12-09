@@ -1,0 +1,61 @@
+﻿16-10-2021 17:10:47
+Selected Work Folder: C:\Users\sharm\Desktop\bulk-mailer
+Processing Mail for Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_abc.xlsxfor Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_safd.xlsxfor Distributor: 1
+Sending mail for distributor: 1
+Delay 5 sec
+Processing Mail for Distributor: 3
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\3_sads.xlsxfor Distributor: 3
+Sending mail for distributor: 3
+Delay 5 sec
+16-10-2021 17:19:58
+Selected Work Folder: C:\Users\sharm\Desktop\bulk-mailer
+Processing Mail for Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_abc.xlsxfor Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_safd.xlsxfor Distributor: 1
+Sending mail for distributor: 1
+Delay 5 sec
+Processing Mail for Distributor: 3
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\3_sads.xlsxfor Distributor: 3
+Sending mail for distributor: 3
+Delay 5 sec
+Finished
+16-10-2021 17:22:08
+Selected Work Folder: C:\Users\sharm\Desktop\bulk-mailer
+Processing Mail for Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_abc.xlsxfor Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_safd.xlsxfor Distributor: 1
+Sending mail for distributor: 1
+Delay 5 sec
+Processing Mail for Distributor: 3
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\3_sads.xlsxfor Distributor: 3
+Sending mail for distributor: 3
+Delay 5 sec
+Finished
+16-10-2021 17:42:43
+Selected Work Folder: C:\Users\sharm\Desktop\bulk-mailer
+Processing Mail for Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_abc.xlsxfor Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_safd.xlsxfor Distributor: 1
+Sending mail for distributor: 1
+Delay 5 sec
+Delay over
+Processing Mail for Distributor: 3
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\3_sads.xlsxfor Distributor: 3
+Sending mail for distributor: 3
+Delay 5 sec
+Delay over
+Finished
+13-11-2021 11:18:22
+Selected Work Folder: C:\Users\sharm\Desktop\bulk-mailer
+Processing Mail for Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_abc.xlsxfor Distributor: 1
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\1_safd.xlsxfor Distributor: 1
+Sending mail for distributor: 1
+Delay 5 sec
+Processing Mail for Distributor: 3
+Adding Attachment: C:\Users\sharm\Desktop\bulk-mailer\3_sads.xlsxfor Distributor: 3
+Sending mail for distributor: 3
+Delay 5 sec
+Finished
